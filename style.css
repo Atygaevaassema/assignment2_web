@@ -1,0 +1,19 @@
+#aboutText{
+	font-size: 150%;
+}
+
+.aboutme{
+	background-color: #f9eed3;
+}
+#intro{
+}
+#portfolio{
+	background-color: #534544;
+}
+.port{
+	text-align: center;
+	color: #9fb083;
+}
+#contacts	{
+	background-image: url("https://i.pinimg.com/564x/2a/41/a1/2a41a1408794d9c19ac27acc36663a47.jpg");
+}
